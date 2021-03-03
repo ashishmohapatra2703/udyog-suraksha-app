@@ -5,27 +5,12 @@ App for Underground Coal Mines Workers Safety Monitoring and Alerting
 
 
 # Getting Started
-
-**Note:** Make sure your Flutter environment is setup.
- Add [Flutter](https://flutter.dev/docs/get-started/install) to your machine 
-#### Installation
+Add [Flutter](https://flutter.dev/docs/get-started/install) to your machine 
 In the command terminal, run the following commands:
-    $ git clone git@github.com:rohan20/flutter-chat-app.git
-    $ cd flutter-chat-app/
+    $ git clone git@github.com:ashishmohapatra2703/udyog-suraksha-app.git
+    $ cd udyog-suraksha-app/
     $ flutter run
 
-# Simulate for iOS
-#### Method One 
-    Open the project in Xcode from ios/Runner.xcodeproj.
-    Hit the play button.
-#### Method Two
-    Run the following command in your terminal.
-    $ open -a Simulator
-    $ flutter run
-# Simulate for Android
-    Make sure you have an Android emulator installed and running.
-    Run the following command in your terminal.
-    $ flutter run
     
 This project is a starting point for a Flutter application.
 A few resources to get you started if this is your first Flutter project:
