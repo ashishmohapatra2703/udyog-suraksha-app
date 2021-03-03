@@ -7,6 +7,7 @@ App for Underground Coal Mines Workers Safety Monitoring and Alerting
 # Getting Started
 Add [Flutter](https://flutter.dev/docs/get-started/install) to your machine 
 In the command terminal, run the following commands:
+
     $ git clone git@github.com:ashishmohapatra2703/udyog-suraksha-app.git
     $ cd udyog-suraksha-app/
     $ flutter run
