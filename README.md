@@ -1,4 +1,4 @@
-# Flutter + IoT
+# IoT + Firebase + Flutter 
 App for Underground Coal Mines Workers Safety Monitoring and Alerting
 
 [Apk File](https://drive.google.com/file/d/12BF_liNVr_F79DZaPgOJLeq6hZN0fb-3/view?usp=sharing)
