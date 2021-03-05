@@ -3,13 +3,13 @@ App for Underground Coal Mines Workers Safety Monitoring and Alerting
 
 [Apk File](https://drive.google.com/file/d/12BF_liNVr_F79DZaPgOJLeq6hZN0fb-3/view?usp=sharing)
 
-[Screen Recording](https://drive.google.com/file/d/12DCt1J4vT2n3XqnWexaENuIE2VDy64oS/view?usp=sharing)
+[Screen Recording](https://drive.google.com/file/d/1DE-7A5i4SkaMTftkAgkMBMdutCRlH_Cb/view?usp=sharing)
 
 [NodeMCU ESP8266 Code](https://gist.github.com/ashishmohapatra2703/9875aa572080fa708997a4824e5fe603)
 
 [Full Project working video](https://drive.google.com/file/d/1xpm7aPYs_fNY5KPTwbvw0GQViyz6DR3J/view?usp=sharing)
 
-# Getting Started
+## Getting Started
 Add [Flutter](https://flutter.dev/docs/get-started/install) to your machine 
 
 In the command terminal, run the following commands:
